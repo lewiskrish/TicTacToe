@@ -2,6 +2,9 @@
 CLI TicTacToe featuring online multiplayer programmed in C.
 
 # How to Run
+## Compilation
+The program can be compiled using a C compiler of your choice e.g  
+```gcc ttt.c -o ttt```
 ## Host
 The host should run the program with the command line argument "host" e.g.  
 ```./ttt host```  
